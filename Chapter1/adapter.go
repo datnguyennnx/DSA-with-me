@@ -1,6 +1,5 @@
 package main
 
-// importing fmt package
 import (
 	"fmt"
 )
