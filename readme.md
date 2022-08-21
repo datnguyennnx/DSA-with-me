@@ -1,4 +1,4 @@
-#Data Structure And Algorithms with Go :books:
+# Data Structure And Algorithms with Go :books:
 
 > Making something small into something larger just by starting with algorithms. Data structures will provide the foundation for us to improve anything we can think of. True thinking starts with an algorithmic knowledge base and is imagizable to anything we want. 
 
