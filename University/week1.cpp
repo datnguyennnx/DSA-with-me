@@ -1,3 +1,9 @@
+/*
+	Input n for generate Array[n] = random 1 -> 5
+	Input k for loop calculate sum index from p -> q ( p and q is random for each k loop)
+	Condition: 0 < p < 10^3 and n < 10^8
+	Testcase if n > 10^8 what if happen?
+*/
 #include <iostream>
 #include <cstdlib>
 
